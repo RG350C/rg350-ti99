@@ -1,0 +1,8 @@
+psp_cpu_clock=200
+danzeff_trans=1
+psp_skip_max_frame=0
+ti99_snd_enable=1
+ti99_render_mode=0
+ti99_speed_limiter=60
+ti99_view_fps=1
+ti99_vsync=0

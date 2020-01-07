@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ti99
+Comment=Texas Instrument 99 calculator emulator 
+Exec=ti99.dge
+Terminal=false
+Type=Application
+MimeType=application/x-a99;
+StartupNotify=true
+Icon=icon
+Categories=applications;
+X-OD-Manual=readme.txt
